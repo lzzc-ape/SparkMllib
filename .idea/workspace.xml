@@ -2,65 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0dd48ed-376c-4c23-8f47-6cc3c04d0b9d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkMLlib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SparkMLlib.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/association_rules/FPGrowthExample$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/association_rules/FPGrowthExample$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/association_rules/FPGrowthExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/datatype/LabelPointTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/datatype/LabelPointTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/datatype/VectorTest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/datatype/VectorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans1$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans1$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans1$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans2$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/kmeans/KMeans2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression1$$anonfun$1$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression1$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression1$$typecreator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression2$$anonfun$1$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression2$$anonfun$1$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression2$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression2$$typecreator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LinearRegression2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression3$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression3$$typecreator2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/LogisticRegression6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/lr/optimize.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/nb/Naive_bayes$$anonfun$1$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/nb/Naive_bayes$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/nb/Naive_bayes$$anonfun$main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/nb/Naive_bayes$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/nb/Naive_bayes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/rf/ClassificationDecisionTree$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/rf/ClassificationDecisionTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/rf/ClassificationRandomForest$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/shsxt/ml/rf/ClassificationRandomForest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/kmeans/data/.part-00000-8b489edf-863d-4e83-9249-a6e3b348fdaf-c000.snappy.parquet.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/kmeans/data/part-00000-8b489edf-863d-4e83-9249-a6e3b348fdaf-c000.snappy.parquet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/kmeans/metadata/.part-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/model/kmeans/metadata/.part-00000.crc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/kmeans/metadata/part-00000" beforeDir="false" afterPath="$PROJECT_DIR$/model/kmeans/metadata/part-00000" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -451,7 +393,7 @@
       <workItem from="1592452558672" duration="2953000" />
       <workItem from="1592461819144" duration="99000" />
       <workItem from="1592461940212" duration="430000" />
-      <workItem from="1592462383117" duration="388000" />
+      <workItem from="1592462383117" duration="1433000" />
     </task>
     <servers />
   </component>
@@ -495,10 +437,10 @@
     </state>
     <state width="1878" height="426" key="GridCell.Tab.0.right/0.0.1440.900/-91.-1080.1920.1080@-91.-1080.1920.1080" timestamp="1592461432153" />
     <state width="1878" height="224" key="GridCell.Tab.0.right/0.23.1440.877/-91.-1080.1920.1080@-91.-1080.1920.1080" timestamp="1592461782237" />
-    <state x="317" y="-1014" key="SettingsEditor" timestamp="1592462771577">
+    <state x="317" y="-1014" key="SettingsEditor" timestamp="1592463349493">
       <screen x="-91" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="317" y="-1014" key="SettingsEditor/0.23.1440.825/-91.-1057.1920.1057@-91.-1057.1920.1057" timestamp="1592462771577" />
+    <state x="317" y="-1014" key="SettingsEditor/0.23.1440.825/-91.-1057.1920.1057@-91.-1057.1920.1057" timestamp="1592463349493" />
     <state x="317" y="-1014" key="SettingsEditor/0.23.1440.827/-91.-1057.1920.1057@-91.-1057.1920.1057" timestamp="1592461915699" />
     <state x="666" y="-672" key="git4idea.rebase.GitRebaseDialog" timestamp="1592461691949">
       <screen x="-91" y="-1080" width="1920" height="1080" />
